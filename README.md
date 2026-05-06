@@ -1,4 +1,4 @@
-<img width="1234" height="819" alt="erd" src="https://github.com/user-attachments/assets/8de8266f-11e2-4e17-834e-382f7f9eb8ff" /># ✈️ Airline Reservation System Database
+✈️ Airline Reservation System Database
 
 <div align="center">
 
@@ -168,8 +168,9 @@ Manages employee assignments for flights.
 
 <div align="center">
 
-![ER Diagram](<img width="1234" height="819" alt="erd" src="https://github.com/user-attachments/assets/20fd7e99-8c8f-474a-80ca-fc42be61ed12" />
-)
+
+<img width="1234" height="819" alt="erd" src="https://github.com/user-attachments/assets/8de8266f-11e2-4e17-834e-382f7f9eb8ff" /> 
+
 
 </div>
 
